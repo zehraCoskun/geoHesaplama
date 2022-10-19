@@ -1,0 +1,15 @@
+/Users/rabiazehraunal/Desktop/pratikler/geoHesaplama/bin/Debug/net6.0/geoHesaplama
+/Users/rabiazehraunal/Desktop/pratikler/geoHesaplama/bin/Debug/net6.0/geoHesaplama.deps.json
+/Users/rabiazehraunal/Desktop/pratikler/geoHesaplama/bin/Debug/net6.0/geoHesaplama.runtimeconfig.json
+/Users/rabiazehraunal/Desktop/pratikler/geoHesaplama/bin/Debug/net6.0/geoHesaplama.dll
+/Users/rabiazehraunal/Desktop/pratikler/geoHesaplama/bin/Debug/net6.0/geoHesaplama.pdb
+/Users/rabiazehraunal/Desktop/pratikler/geoHesaplama/obj/Debug/net6.0/geoHesaplama.csproj.AssemblyReference.cache
+/Users/rabiazehraunal/Desktop/pratikler/geoHesaplama/obj/Debug/net6.0/geoHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rabiazehraunal/Desktop/pratikler/geoHesaplama/obj/Debug/net6.0/geoHesaplama.AssemblyInfoInputs.cache
+/Users/rabiazehraunal/Desktop/pratikler/geoHesaplama/obj/Debug/net6.0/geoHesaplama.AssemblyInfo.cs
+/Users/rabiazehraunal/Desktop/pratikler/geoHesaplama/obj/Debug/net6.0/geoHesaplama.csproj.CoreCompileInputs.cache
+/Users/rabiazehraunal/Desktop/pratikler/geoHesaplama/obj/Debug/net6.0/geoHesaplama.dll
+/Users/rabiazehraunal/Desktop/pratikler/geoHesaplama/obj/Debug/net6.0/refint/geoHesaplama.dll
+/Users/rabiazehraunal/Desktop/pratikler/geoHesaplama/obj/Debug/net6.0/geoHesaplama.pdb
+/Users/rabiazehraunal/Desktop/pratikler/geoHesaplama/obj/Debug/net6.0/geoHesaplama.genruntimeconfig.cache
+/Users/rabiazehraunal/Desktop/pratikler/geoHesaplama/obj/Debug/net6.0/ref/geoHesaplama.dll
